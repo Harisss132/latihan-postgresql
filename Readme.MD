@@ -1,0 +1,1 @@
+ini merupakan repositori proses saya dalam belajar query postgresql

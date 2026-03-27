@@ -1,0 +1,1 @@
+UPDATE myschema.produk SET harga = '7500' WHERE id = 1;
